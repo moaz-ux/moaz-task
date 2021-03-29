@@ -1,0 +1,26 @@
+
+body{
+    background-image: url(images/newfinal/without\ head\ final.jpg);
+    background-size:100%;
+
+}
+#head{
+    font-size: 35px;
+    text-align: right;
+}
+#head1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    
+}
+#imgblock{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+    
+
+   

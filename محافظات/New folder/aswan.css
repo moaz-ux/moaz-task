@@ -1,0 +1,14 @@
+
+body{
+    background-image: url(images/without\ head\ final.jpg);
+    background-size:100%;
+
+}
+#imagesall{
+    padding-right: 20px;
+}
+#head{
+   text-align: right;
+   font-size: 40px;
+}
+   
